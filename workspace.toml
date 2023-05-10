@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "service-notes",
+    "service-users",
+    "service-utils",
+]
+resolver = "2"
